@@ -64,3 +64,8 @@
 - 聊天機器人
 
    ![](https://img.shields.io/badge/line--bot--sdk-FFFFFF)
+   
+- 數據可視化
+
+   ![](https://img.shields.io/badge/Tableau-FFFFFF)   
+   https://public.tableau.com/app/profile/.21163318/viz/_16477812380590/sheet0_1
