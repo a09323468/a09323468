@@ -18,7 +18,7 @@
 #  使用的程式語言
 
   ![](https://img.shields.io/badge/Python-FFFFFF)
-  ![](https://img.shields.io/badge/JAVA-FFFFFF)
+  ![](https://img.shields.io/badge/Java-FFFFFF)
 
 
 # 使用的IDE
