@@ -18,6 +18,7 @@
 #  使用的程式語言
 
   ![](https://img.shields.io/badge/Python-FFFFFF)
+  ![](https://img.shields.io/badge/C#-FFFFFF)
   ![](https://img.shields.io/badge/Java-FFFFFF)
 
 
@@ -36,6 +37,7 @@
 - 數據庫
 
    ![](https://img.shields.io/badge/MySQL-FFFFFF)
+   ![](https://img.shields.io/badge/MsSQL-FFFFFF)
    ![](https://img.shields.io/badge/Mongodb-FFFFFF)
    
 #  使用的套件
